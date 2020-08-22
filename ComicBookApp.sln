@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookApp", "ComicBookApp\ComicBookApp.csproj", "{4455E3FE-9119-4796-8E5B-5392F2751635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4455E3FE-9119-4796-8E5B-5392F2751635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4455E3FE-9119-4796-8E5B-5392F2751635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4455E3FE-9119-4796-8E5B-5392F2751635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4455E3FE-9119-4796-8E5B-5392F2751635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3025BE8-8318-42AD-82F9-FD926EC0746E}
+	EndGlobalSection
+EndGlobal
